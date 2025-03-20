@@ -1,6 +1,7 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<img src="./Capture d'écran 2025-03-20 232515.png"/>
 
 ## Get started
 
